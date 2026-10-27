@@ -25,7 +25,8 @@ For finding review article on interesting topic I used Google Scholar with keywo
 - Are drones vulnerable to cyber attacks?
 - Penetration testing on UAVs (Unmanned Aerial Vehicle), also known as drones
 - Multiple drone models tested from different brands
-** Cyber attacks used on drones **
+
+**Cyber attacks used on drones**
 - DoS (Deauthentication, UDP/TCP flood)
 - MitM (Eavesdropping, Spoofing)
 - Password and Procols Crack (WLAN security protocols WEP, WPA, WPA2 etc.)
