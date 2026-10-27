@@ -45,3 +45,6 @@ For finding review article on interesting topic I used Google Scholar with keywo
 ### Open research questions
 
 - There's not many papers about cyber attacks concerning drones
+
+### References
+Branco, B. (2025). "Cyber Attacks on Commercial Drones: A Review". URL: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10835757
