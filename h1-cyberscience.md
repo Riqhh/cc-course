@@ -2,7 +2,7 @@
 
 ## Science hunt
 
-I wanted to find topic about cybersecurity in network communications preferably IoT devices. 
+I wanted to find a research topic related to cybersecurity in network communications, preferably focusing on IoT devices.
 
 To find a review article on an interesting topic, I used Google Scholar with the keywords "cybersecurity IoT review." After examining several review articles, I discovered that many of them either had no rating in the JUFO portal or were not listed in the portal at all. However search also returned some result about cybersecurity in SDR, so I decided to change my search keywords.
 
