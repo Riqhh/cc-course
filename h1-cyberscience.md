@@ -4,7 +4,7 @@
 
 I wanted to find topic about cybersecurity in network communications preferably IoT devices. 
 
-For finding review article on interesting topic I used Google Scholar with keywords "cybersecurity iot review". After checking few reviews I found out that these reviews had no rating in JUFO-portal or not listed at all. However search also returned some result about cybersecurity in SDR, so I decided to change my search keywords.
+To find a review article on an interesting topic, I used Google Scholar with the keywords "cybersecurity IoT review." After examining several review articles, I discovered that many of them either had no rating in the JUFO portal or were not listed in the portal at all. However search also returned some result about cybersecurity in SDR, so I decided to change my search keywords.
 
 ### A. Hunt summary
 
