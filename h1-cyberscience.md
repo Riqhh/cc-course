@@ -1,4 +1,4 @@
-# H1 - CybeerScience
+# H1 - CyberScience
 
 ## Science hunt
 
@@ -22,16 +22,16 @@ For finding review article on interesting topic I used Google Scholar with keywo
 
 ### Key research areas
 
-- Are drones vu
+- Are drones vulnerable to cyber attacks?
 - Penetration testing on UAVs (Unmanned Aerial Vehicle), also known as drones
 - Multiple drone models tested from different brands
-- Cyber attacks used on drones
--- DoS (Deauthentication, UDP/TCP flood)
--- MitM (Eavesdropping, Spoofing)
--- Password and Procols Crack (WLAN security protocols WEP, WPA, WPA2 etc.)
--- Unauthorized Access (services open in TCP/UDP ports)
--- Command and Code Injection (vulnerabilities in drone code/software)
--- Jamming (GPS, RF-control channel, camera stream)
+* Cyber attacks used on drones
+- DoS (Deauthentication, UDP/TCP flood)
+- MitM (Eavesdropping, Spoofing)
+- Password and Procols Crack (WLAN security protocols WEP, WPA, WPA2 etc.)
+- Unauthorized Access (services open in TCP/UDP ports)
+- Command and Code Injection (vulnerabilities in drone code/software)
+- Jamming (GPS, RF-control channel, camera stream)
 
 ### Widely agreed findings
 
