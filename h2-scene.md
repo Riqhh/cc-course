@@ -66,8 +66,6 @@ I did some comparison about technologies introduced in blog about ChainDrop worm
 
 ## References
 
-Terokarvinen.com CyberSecurity - https://terokarvinen.com/cyber-security/#homework
-
 Covert Access Team Podcast - Myths of high security buildings - https://www.youtube.com/watch?v=fqOX3PrQ94k
 
 ChainDrop: Inside a Self-Propagating npm Worm - https://unit42.paloaltonetworks.com/chaindrop-npm-worm-analysis/
