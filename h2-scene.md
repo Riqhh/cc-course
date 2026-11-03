@@ -64,12 +64,6 @@ I did some comparison about technologies introduced in blog about ChainDrop worm
 * Command-and-control protocols (C2)
 
 
-## Part D: Download debian 13-trixie
-
-## Part E: Install debian on virtual machine
-
-## Part F: Install feed reader
-
 ## References
 
 Terokarvinen.com CyberSecurity - https://terokarvinen.com/cyber-security/#homework
