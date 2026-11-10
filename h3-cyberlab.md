@@ -68,7 +68,7 @@ When installing any OS on Proxmox virtual environment you need to upload ISO-ima
 
 I started installation using Install Debian -icon on desktop. I selected correct time zone, keyboard layout and did partitioning with default settings. For any physical compunter, not VM I would suggest encrypting the system.
 
-![Partitioning disk](img/h3/h3-02-partioning.png)
+![Partitioning disk](img/h3/h3-02-partitioning.png)
 
 After installation is finished VM reboots to installed OS. The next step is to update Debian packages and install Qemu-guest-agent. Qemu Guest Agent is used to exchange information between the Proxmox host machine and VM, and also to execute command in the VM OS. 
 
