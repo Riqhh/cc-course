@@ -59,7 +59,7 @@ I created new virtual machine using settings below.
 
 When installing any OS on Proxmox virtual environment you need to upload ISO-image to Proxmox ISO-repository first. ISO-image can be uploaded using Proxmox GUI.
 
-![ISO-image upload](img/h3/h3-01-upload.PNG)
+![ISO-image upload](img/h3/h3-01-upload.png)
 
 Update Debian packages and install Qemu-guest-agent. Qemu Guest Agent is used to exchange information between the Proxmox host machine and VM, and also to execute command in the VM OS. 
 
