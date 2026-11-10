@@ -2,7 +2,7 @@
 
 In this lab excercise I will install Linux Debian 13 Trixie into virtual machine and test some commands and tools, especially Hashcat for cracking passwords.
 
-## Read and summarize
+## Part 1 - Read and summarize
 
 Before starting I will read and summarize articles about topics below.
 
@@ -32,9 +32,14 @@ The article goes trough some basic commands used in Linux terminal or shell. Som
 
 ### Cracking password with Hashcat
 
+This article includes step by step instructions how to crack password using Hashcat. Steps include installing Hashcat, downloading dictionary file to use and how to identify hash type.
 
-
-## Installing Linux on a virtual machine
+* Systems store passwords in hashes and hashing is a one way function. There's no easy way to turn hash back to password
+* Rockyou is possibly most popular dictionary
+* Identifying right hash type using Hashid may still require information about hash origin
+* For more cracking power using GPU is recommended
+   
+## Part 2 - Installing Linux on a virtual machine
 
 I already had two virtualization software options available for hosting the virtual machine. First one was Hyper-V running on Windows 11 OS and second one was Proxmox Virtual Environment. Proxmox is open-source and more bare-metal type hypervisor that is build on custom Debian Linux. I decided to go with Proxmox for more customization options.
 
@@ -76,7 +81,7 @@ sudo apt install ssh
 ```
 
 
-## Cracking password with Hashcat
+## Part 3 - Cracking password with Hashcat
 
 The goal was to crack password with hash 6b1628b016dff46e6fa35684be6acc96. I used instructions from Tero's article discussed earlier 'Cracking passwords with Hashcat'
 
@@ -208,3 +213,11 @@ This time as well, finding the correct password took less than a second.
 ## Conclusion
 
 This example clearly illustrates why strong passwords are important. Even a slightly longer password can be cracked very quickly if it consists only of a dictionary word and numbers. 
+
+## References
+
+How to Install Linux to Virtualbox? - https://github.com/johannaheinonen/johanna-test-repo/blob/main/module_1.md
+
+Command Line Basics Revisited - https://terokarvinen.com/2020/command-line-basics-revisited/
+
+Cracking Passwords with Hashcat - https://terokarvinen.com/2022/cracking-passwords-with-hashcat/
