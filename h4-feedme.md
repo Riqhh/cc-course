@@ -20,7 +20,7 @@ I searched for alternatives on Google using the keywords "rss feed reader androi
  
 To add new feed you need to type in the feed URL and select optional settings like notifications.
 
-![Adding feed](img/h4/h4-addfeed.png)![Overview of added feed](img/h4/h4-addedfeed.png)
+![Adding feed](img/h4/h4-addfeed.jpg) ![Overview of added feed](img/h4/h4-addedfeed.jpg)
 
 The Feeder seems to fetch feeds and display them correctly.
 
@@ -36,7 +36,7 @@ Second feed is from an American startup accelerator and venture capital firm Y C
 * Alerts from Kyberturvallisuuskeskus - https://kyberturvallisuuskeskus.fi/feed/rss/fi/401
 * Hacker news from Y Combinator - https://news.ycombinator.com/rss
 
-![All feeds](img/h4/h4-allfeeds.png)![Feed subscribed](img/h4/h4-allfeeds2.png)
+![All feeds](img/h4/h4-allfeeds.jpg) ![Feed subscribed](img/h4/h4-allfeeds2.jpg)
 
 Overview of all feeds and list of feeds subscribed
 
