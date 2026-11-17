@@ -22,7 +22,11 @@ To add new feed you need to type in the feed URL and select optional settings li
 
 ![Adding feed](img/h4/h4-addfeed.jpg) 
 
+Adding a feed
+
 ![Overview of added feed](img/h4/h4-addedfeed.jpg)
+
+Overview of a added feed
 
 The Feeder seems to fetch feeds and display them correctly.
 
@@ -40,9 +44,11 @@ Second feed is from an American startup accelerator and venture capital firm Y C
 
 ![All feeds](img/h4/h4-allfeeds.jpg) 
 
+Overview of all feeds and list of feeds subscribed
+
 ![Feed subscribed](img/h4/h4-allfeeds2.jpg)
 
-Overview of all feeds and list of feeds subscribed
+
 
 ### Following feeds
 
