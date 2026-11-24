@@ -23,11 +23,11 @@
 
 ## Part A - Public key today
 
-Tick-tock
+Time-limit
 
 ## Part B - Encrypting and decrypting a message
 
-Tick-tock
+Time-limit
 
 ## Part C - Password management
 
